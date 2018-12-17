@@ -104,7 +104,6 @@ public class ClientThread extends Thread {
 
     private void checkIfAny() throws IOException {
         String ccFile = ReadAndWrite.readBytesFromFile(pathName+CREDIT_CARDS_TXT);
-        System.out.println(ccFile.length());
         creditCards.clear();
         if(ccFile.contains(";;")){
             String[] split = ccFile.split(";;");
