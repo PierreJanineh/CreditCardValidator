@@ -53,11 +53,11 @@ Follow these steps to set up and run the `CreditCardValidator` project on your l
    git clone https://github.com/PierreJanineh/CreditCardValidator.git
    ```
 2. Navigate to the Project Directory:
-  ```bash
-  cd CreditCardValidator
-  ```
+    ```bash
+    cd CreditCardValidator
+    ```
 3. Open the Project:
-  Open the project using your preferred Java IDE.
+    Open the project using your preferred Java IDE.
 
 ### 🖥 Running the Server
 1. Navigate to the CCValidation_Server directory in your IDE.
